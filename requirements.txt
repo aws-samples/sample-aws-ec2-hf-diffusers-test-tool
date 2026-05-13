@@ -37,7 +37,7 @@ nvidia-nvjitlink-cu12==12.8.93
 nvidia-nvtx-cu12==12.8.90
 packaging==25.0
 pillow==11.3.0
-protobuf==6.32.1
+protobuf==6.33.5
 psutil==7.1.0
 PyYAML==6.0.3
 regex==2025.9.18
